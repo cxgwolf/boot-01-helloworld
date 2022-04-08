@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 
 /**
- * 只有在容器中的组件，才会拥有SpringBoot提供的强大功能cxg
+ * 只有在容器中的组件，才会拥有SpringBoot提供的强大功能cxgccc
  */
 @ToString
 @Data
