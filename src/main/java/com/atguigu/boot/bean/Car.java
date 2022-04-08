@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 只有在容器中的组件，才会拥有SpringBoot提供的强大功能cxgccc hello git4master
- * 只有在容器中的组件，才会拥有SpringBoot提供的强大功能cxgccc hello git4hotfix
+ * 只有在容器中的组件，才会拥有SpringBoot提供的强大功能cxgccc hello git4hotfix jiushisi push
  */
 @ToString
 @Data
